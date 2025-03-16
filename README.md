@@ -1,3 +1,3 @@
-#Descritpion
+# Descritpion
 This is just me revisiting some html, css, js basics.
 Another random change to get used to git pull, merge, checkout ....
